@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
+<h1 align="center"> 🚀 Hey, I'm <span style="color:#00FFAA;">Sarweshwar Buddolla</span> </h1>
 
-<!--
-**sarweshwargoud/sarweshwargoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI/ML+Enthusiast;Generative+AI+Developer;Agentic+AI+Learner;Cloud+%26+Intelligent+Systems+Explorer;Always+Learning+More!">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌍 Hyderabad, Telangana, India • 💡 Passionate About Building Intelligent AI Systems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ================= ABOUT ================= -->
+## 🌟 About Me
+✨ This profile, projects, achievements, ideas and innovations **belong to me — Sarweshwar Buddolla**.
+
+I am an enthusiastic learner & builder in:
+- 🤖 Generative AI & Agentic AI Systems
+- 🧠 Machine Learning & Intelligent Automation
+- ⚙️ AI Chatbots & RAG Systems
+- ☁️ Cloud & Scalable AI Deployments
+
+🔗 Let’s Connect on LinkedIn  
+👉 www.linkedin.com/in/sarweshwarbuddolla-25673b312
+
+---
+
+## 🏆 Experience
+- 🧑‍💻 AI/ML Intern — Edunet Foundation (2025)
+- 🤖 AI/ML Intern — Elevate Labs (2025)
+- 🧠 AI Developer — Viswam.AI (2025)
+- 📊 Tata Forage — Gen AI Data Analytics (2025)
+
+---
+
+## 🎓 Education
+🎓 B.Tech — **Artificial Intelligence & Machine Learning**  
+📍 Malla Reddy College of Engineering & Technology (2024–2027)
+
+---
+
+<!-- ================= BADGES / ICONS ================= -->
+## 🛠 Tech & Skills
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-%2300C4F5?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Machine%20Learning-%23E6B400?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/Generative%20AI-%23FF00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Agentic%20AI-%2300FFAB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-%23007ACC?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/RAG%20Systems-%23FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20&%20GKE-%2300A4EF?style=for-the-badge&logo=googlecloud">
+</p>
+
+---
+
+<!-- ================= CERTIFICATIONS ================= -->
+## 📜 Certifications
+✔ Responsive Web Design  
+✔ Retrieval Augmented Generation (RAG)  
+✔ Microsoft Career Essentials GenAI  
+✔ AI Fundamentals  
+✔ Machine Learning with ChatGPT  
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sarweshwargoud&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarweshwargoud&theme=radical" height="170"/>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+## 🔥 Contribution Activity
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshwargoud&theme=react-dark">
+</p>
+
+---
+
+<!-- ================= MOTTO ================= -->
+## ✨ Motto
+📌 *Learning. Building. Innovating. Growing in AI — every single day.*  
