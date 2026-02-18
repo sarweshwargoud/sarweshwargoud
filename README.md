@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hey, I'm <span style="color:#00FFAA;">Sarweshwar </span> </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI/ML+Enthusiast;Generative+AI+Developer;Agentic+AI+Learner;Cloud+%26+Intelligent+Systems+Explorer;Always+Learning+More!">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI/ML+Enthusiast;Generative+AI+learner;Agentic+AI+Learner;Ai+tools+Explorer">
 </p>
 
 <p align="center">
