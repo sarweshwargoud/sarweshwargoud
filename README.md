@@ -13,7 +13,6 @@
 
 <!-- ================= ABOUT ================= -->
 ## 🌟 About Me
-✨ This profile, projects, achievements, ideas and innovations **belong to me — Sarweshwar Buddolla**.
 
 I am an enthusiastic learner & builder in:
 - 🤖 Generative AI & Agentic AI Systems
