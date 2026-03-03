@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-🌍 Hyderabad, Telangana, India • 💡 Passionate About Building Intelligent AI Systems
+🌍 Hyderabad, Telangana, India • 💡 
 </p>
 
 ---
