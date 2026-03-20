@@ -26,15 +26,15 @@ I am an enthusiastic learner & builder in:
 ---
 
 ## 🏆 Experience
-- 🧑‍💻 AI/ML Intern — Edunet Foundation (2025)
-- 🤖 AI/ML Intern — Elevate Labs (2025)
+- 🧑‍💻 AI/ML Intern — Uptoskills (Dec,2025 to March.2026)
+- 🤖 Gen AI Intern — SURE TRUST (Feb,2026 to July,2026)
 - 🧠 AI Developer — Viswam.AI (2025)
 - 📊 Tata Forage — Gen AI Data Analytics (2025)
 
 ---
 
 ## 🎓 Education
-🎓 B.Tech — **Artificial Intelligence & Machine Learning**  
+🎓 B.Tech — **CSE(AIML)**  
 📍 Malla Reddy College of Engineering & Technology (2024–2027)
 
 ---
@@ -55,11 +55,10 @@ I am an enthusiastic learner & builder in:
 
 <!-- ================= CERTIFICATIONS ================= -->
 ## 📜 Certifications
-✔ Responsive Web Design  
-✔ Retrieval Augmented Generation (RAG)  
-✔ Microsoft Career Essentials GenAI  
-✔ AI Fundamentals  
-✔ Machine Learning with ChatGPT  
+✔ AWS Cloud Practitioner Essentials (AWS)
+✔ OCI Certified Ai foundational Associate (Oracle) 
+✔ Retrieval Augmented Generation (Coursera)    
+✔ Google Data Analytics(Google)  
 
 ---
 
