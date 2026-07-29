@@ -63,7 +63,6 @@ I am an enthusiastic learner & builder in:
 ✔ Google Data Analytics(Google)  
 
 ---
-
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 <p align="center">
