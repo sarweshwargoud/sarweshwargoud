@@ -32,6 +32,7 @@ I am an enthusiastic learner & builder in:
 - 🤖 Gen AI Intern — SURE TRUST (Feb,2026 to July,2026)
 - 🧠 AI Developer — Viswam.AI (2025)
 - 📊 Tata Forage — Gen AI Data Analytics (2025)
+- 
 
 ---
 
