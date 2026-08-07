@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI/ML+Enthusiast;Generative+AI+learner;Agentic+AI+Learner;Ai+tools+Explorer">
 </p>
 
+
 <p align="center">
 🌍 Hyderabad, Telangana, India • 💡 
 </p>
