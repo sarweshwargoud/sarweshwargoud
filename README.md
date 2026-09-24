@@ -11,11 +11,11 @@
 🌍 Hyderabad, Telangana, India • 💡 
 </p>
 
-### ☕ Support My Work
+## ☕ Fuel My Code 🚀
 
 If you like my projects and want to support my work, you can buy me a coffee ❤️
 
-👉 **[☕ Fuel Me — Support My Projects](https://fuel-me-nine.vercel.app/)**
+**[☕ Buy Me a Coffee →](https://fuel-me-nine.vercel.app/)**
 
 ---
 <p align="center">
