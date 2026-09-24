@@ -13,7 +13,7 @@
 
 ## ☕ Fuel My Code 🚀
 
-<p align="center"**[☕ Buy Me a Coffee →](https://fuel-me-nine.vercel.app/)**>
+**[☕ Buy Me a Coffee 🤧→](https://fuel-me-nine.vercel.app/)**
 
 ---
 <p align="center">
