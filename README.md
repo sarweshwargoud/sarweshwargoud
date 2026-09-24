@@ -11,9 +11,9 @@
 🌍 Hyderabad, Telangana, India • 💡 
 </p>
 
-## ☕ Fuel My Code 🚀
 
-**[☕ Buy Me a Coffee 🤧→](https://fuel-me-nine.vercel.app/)**
+
+**[☕Fuel me - Buy Me a Coffee 🤧→](https://fuel-me-nine.vercel.app/)**
 
 ---
 <p align="center">
