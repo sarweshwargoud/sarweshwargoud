@@ -13,9 +13,7 @@
 
 ## ☕ Fuel My Code 🚀
 
-If you like my projects and want to support my work, you can buy me a coffee ❤️
-
-**[☕ Buy Me a Coffee →](https://fuel-me-nine.vercel.app/)**
+<p align="center"**[☕ Buy Me a Coffee →](https://fuel-me-nine.vercel.app/)**>
 
 ---
 <p align="center">
