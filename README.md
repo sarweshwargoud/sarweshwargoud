@@ -11,6 +11,12 @@
 🌍 Hyderabad, Telangana, India • 💡 
 </p>
 
+### ☕ Support My Work
+
+If you like my projects and want to support my work, you can buy me a coffee ❤️
+
+👉 **[☕ Fuel Me — Support My Projects](https://fuel-me-nine.vercel.app/)**
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarweshwargoud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
