@@ -18,6 +18,8 @@
   🌍 Hyderabad, Telangana, India • 💡 
 </p>
 
+---
+
 <p align="center">
    <a href="https://fuel-me-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Fuel%20Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
