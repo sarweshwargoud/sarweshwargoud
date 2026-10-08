@@ -7,13 +7,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Generative+AI+Learner;Agentic+AI+Learner;AI+Tools+Explorer">
 </p>
 
+<!-- ================= QUICK LINKS ================= -->
 <p align="center">
 
   <a href="https://sarweshwarr.com">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 
-  ---
+  &nbsp;&nbsp;│&nbsp;&nbsp;
 
   <a href="https://fuel-me-nine.vercel.app/">
     <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee%20😭🤧-Fuel%20Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
