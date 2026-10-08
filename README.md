@@ -8,7 +8,7 @@
 </p>
 
 <!-- ================= QUICK LINKS ================= -->
-<p align="center">
+<p>
 
   <a href="https://sarweshwarr.com">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
