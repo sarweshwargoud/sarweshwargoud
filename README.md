@@ -34,11 +34,9 @@ I am an enthusiastic learner & builder in:
 ---
 
 ## 🏆 Experience
+
+- 🤖 Gen AI Intern — SURE TRUST (Feb,2026 to July,2026) 
 - 🧑‍💻 AI/ML Intern — Uptoskills (Dec,2025 to March.2026)
-- 🤖 Gen AI Intern — SURE TRUST (Feb,2026 to July,2026)
-- 🧠 AI Developer — Viswam.AI (2025)
-- 📊 Tata Forage — Gen AI Data Analytics (2025)
-- 
 
 ---
 
@@ -88,6 +86,4 @@ I am an enthusiastic learner & builder in:
 
 ---
 
-<!-- ================= MOTTO ================= -->
-## ✨ Motto
-📌 *Learning. Building. Innovating. Growing in AI — every single day.*  
+
