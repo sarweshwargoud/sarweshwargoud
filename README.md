@@ -10,24 +10,29 @@
 ---
 
 <!-- ================= QUICK LINKS ================= -->
-<table width="100%",align="center">
-<tr>
-<td align="left">
+<!-- ================= QUICK LINKS ================= -->
+<table align="center">
+  <tr>
+    <td align="left">
 
-<a href="https://sarweshwarr.com">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-SARWESHWARR.COM-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
+      <a href="https://sarweshwarr.com">
+        <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-SARWESHWARR.COM-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+      </a>
 
-</td>
+    </td>
 
-<td align="right">
+    <td>
+      &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+    </td>
 
-<a href="https://fuel-me-nine.vercel.app/">
-<img src="https://img.shields.io/badge/☕%20BUY%20ME%20A%20COFFEE%20😭🤧-FUEL%20ME-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
-</a>
+    <td align="right">
 
-</td>
-</tr>
+      <a href="https://fuel-me-nine.vercel.app/">
+        <img src="https://img.shields.io/badge/☕%20BUY%20ME%20A%20COFFEE%20😭🤧-FUEL%20ME-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+      </a>
+
+    </td>
+  </tr>
 </table>
 
 
