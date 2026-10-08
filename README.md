@@ -8,21 +8,19 @@
 </p>
 
 <!-- ================= PORTFOLIO ================= -->
+<!-- ================= QUICK LINKS ================= -->
 <p align="center">
+
   <a href="https://sarweshwarr.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-</p>
 
-<p align="center">
-  🌍 Hyderabad, Telangana, India • 💡 
-</p>
-
- &nbsp;&nbsp;│&nbsp;&nbsp;
+  &nbsp;&nbsp;│&nbsp;&nbsp;
 
   <a href="https://fuel-me-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee%20😭🤧-Fuel%20Me-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
+
 </p>
 
 ---
