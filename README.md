@@ -31,13 +31,6 @@
 </table>
 
 
-<!-- ================= QUICK LINKS ================= -->
-
-| 🌐 Portfolio | ☕ Support Me |
-|:---|---:|
-| <a href="https://sarweshwarr.com"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-SARWESHWARR.COM-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white"></a> | <a href="https://fuel-me-nine.vercel.app/"><img src="https://img.shields.io/badge/☕%20BUY%20ME%20A%20COFFEE%20😭🤧-FUEL%20ME-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a> |
-
-
 ---
 
 <p align="center">
