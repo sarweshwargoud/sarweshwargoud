@@ -10,7 +10,7 @@
 <p align="center">
 
   <a href="https://sarweshwarr.com">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-FFDD00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 
   ---
