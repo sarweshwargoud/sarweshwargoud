@@ -129,14 +129,4 @@ I am an enthusiastic learner & builder focused on:
 
 ---
 
-<!-- ================= FOOTER ================= -->
 
-<p align="center">
-  <b>🚀 Building with AI • Learning every day • Turning ideas into projects</b>
-</p>
-
-<p align="center">
-  <a href="https://sarweshwarr.com">
-    🌐 <b>Visit My Portfolio → sarweshwarr.com</b>
-  </a>
-</p>
