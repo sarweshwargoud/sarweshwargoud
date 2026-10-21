@@ -73,6 +73,7 @@ I am an enthusiastic learner & builder focused on:
 
 ---
 
+
 ## 🎓 Education
 
 🎓 **B.Tech — CSE (AI & ML)**  
