@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ================= QUICK LINKS ================= -->
 <table align="center">
   <tr>
@@ -54,16 +54,7 @@ I am an enthusiastic learner & builder focused on:
 
 
 
-### 🔗 Let's Connect
 
-<p>
-  <a href="https://sarweshwarr.com">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-sarweshwarr.com-00FFAA?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarweshwarbuddolla-25673b312">
-    <img src="https://img.shields.io/badge/LinkedIn-Sarweshwar%20Buddolla-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
