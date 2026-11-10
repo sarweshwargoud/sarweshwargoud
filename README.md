@@ -116,15 +116,15 @@ I am an enthusiastic learner & builder focused on:
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-stats-extended.vercel.app/api?username=sonam-yadav04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sarweshwargoud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
 
 <!-- Top Languages -->
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sonam-yadav04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarweshwargoud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%" />
 
 <br/><br/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=sonam-yadav04&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com/?user=sarweshwargoud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
