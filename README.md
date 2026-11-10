@@ -80,49 +80,32 @@ I am an enthusiastic learner & builder focused on:
 
 ## 🛠️ Tech Stack & Skills
 
-Technologies and tools I use to build, experiment, and bring ideas to life.
-
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&size=24" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&perline=6&size=12" />
 
 ### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&size=24" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&perline=6&size=12" />
 
 ### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&size=24" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&perline=6&size=12" />
 
 ### 🗄️ Databases & Data Management
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&size=24" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=6&size=12" />
 
 ### 🤖 AI & Generative AI
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
 
 ### 🐳 DevOps & Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark&size=24" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark&perline=6&size=12" />
 
 ### 🔧 Additional Technologies
-<p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square" />
-</p>
-
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square" />
 
 ---
 
