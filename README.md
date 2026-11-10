@@ -79,31 +79,29 @@ I am an enthusiastic learner & builder focused on:
 
 ## 🛠️ Tech Stack & Skills
 
-Technologies and tools I use to build, experiment, and bring ideas to life.
-
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
 </p>
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
 </p>
 
 ### Databases & Data Management
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
 </p>
 
 ### AI & Generative AI
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=python&theme=dark" />
   <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" />
@@ -113,7 +111,7 @@ Technologies and tools I use to build, experiment, and bring ideas to life.
 
 ### DevOps & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark" />
+  <img width="50%" src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark" />
 </p>
 
 ### Additional Technologies
