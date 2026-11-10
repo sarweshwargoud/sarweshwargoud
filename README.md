@@ -1,4 +1,9 @@
 <!-- ================= HEADER ================= -->
+
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Sarweshwar%20Buddolla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Intelligent%20and%20Scalable%20Web%20Experiences&descAlignY=52&descAlign=50" alt="Header Banner" />
+</div>
 <h1 align="center">
   👋 Hey, I'm <span style="color:#00FFAA;">Sarweshwar</span>
 </h1>
