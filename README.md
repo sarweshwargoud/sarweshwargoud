@@ -82,73 +82,85 @@ I am an enthusiastic learner & builder focused on:
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&size=16" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&size=16" />
-
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
 
 ### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&size=16" />
-
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+</p>
 
 ### 🗄️ Databases & Data Management
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&size=16" />
-</td>
-</tr>
-</table>
-
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Databases-2563EB?style=flat-square" />
+</p>
 
 ### 🤖 AI & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+### ☁️ Cloud, DevOps & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square" />
+</p>
 
-<img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" />
-
-<img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=flat-square" />
-
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Additional Technologies
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
-
-<img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-### 🐳 DevOps & Development Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark&size=16" />
-
+### 🔧 Tools & Additional Skills
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-0D9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Responsive_Design-9333EA?style=flat-square" />
+</p>
 
 <!-- ================= CERTIFICATIONS ================= -->
 
