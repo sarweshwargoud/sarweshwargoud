@@ -2,7 +2,7 @@
 
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Sarweshwar%20Buddolla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20EEngineer&descAlignY=52&descAlign=50" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Sarweshwar%20Buddolla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20Engineer&descAlignY=52&descAlign=50" alt="Header Banner" />
 </div>
 
 
