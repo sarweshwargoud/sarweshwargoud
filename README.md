@@ -79,18 +79,35 @@ I am an enthusiastic learner & builder focused on:
 
 
 
+
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
+<p>
 <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&size=16" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&size=16" />
 
+</td>
+<td width="50%" valign="top">
+
 ### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&size=16" />
 
+</td>
+</tr>
+</table>
+
 ### 🗄️ Databases & Data Management
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&size=16" />
 
 <table>
@@ -125,9 +142,9 @@ I am an enthusiastic learner & builder focused on:
 </table>
 
 ### 🐳 DevOps & Development Tools
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark&size=16" />
 
----
 
 <!-- ================= CERTIFICATIONS ================= -->
 
