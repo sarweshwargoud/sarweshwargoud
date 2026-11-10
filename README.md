@@ -94,24 +94,17 @@ I am an enthusiastic learner & builder focused on:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
 </p>
 
 ### 🗄️ Databases & Data Management
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_Databases-2563EB?style=flat-square" />
@@ -122,18 +115,8 @@ I am an enthusiastic learner & builder focused on:
   <img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0D9488?style=flat-square" />
   <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 ### ☁️ Cloud, DevOps & Deployment
