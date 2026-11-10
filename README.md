@@ -38,11 +38,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarweshwargoud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sarweshwargoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
 
 <!-- ================= ABOUT ================= -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🌟 About
 
@@ -52,6 +51,8 @@ I am an enthusiastic learner & builder focused on:
 - 🧠 Machine Learning & Intelligent Automation
 - ⚙️ AI Chatbots & RAG Systems
 - ☁️ Cloud & Scalable AI Deployments
+
+
 
 ### 🔗 Let's Connect
 
@@ -109,6 +110,8 @@ I am an enthusiastic learner & builder focused on:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
@@ -128,14 +131,21 @@ I am an enthusiastic learner & builder focused on:
 
 <br/><br/>
 
----
+## 🤝 Let's Connect
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<div align="center">
 
-## 🔥 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarweshwargoud&theme=react-dark">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Open+to+opportunities;Let%27s+build+something+great+together" alt="Connect typing" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarweshwar-buddolla-25673b312/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://sarweshwarr.com/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b.sarweshwar445@gmail.com)
+
+</div>
+
+
 
 ---
 
