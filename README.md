@@ -103,12 +103,16 @@ I am an enthusiastic learner & builder focused on:
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&size=16" />
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### 🗄️ Databases & Data Management
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&size=16" />
+</td>
+</tr>
+</table>
+
+
 
 <table>
 <tr>
