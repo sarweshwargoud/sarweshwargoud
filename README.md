@@ -77,44 +77,45 @@ I am an enthusiastic learner & builder focused on:
 <!-- ================= TECH & SKILLS ================= -->
 
 
+
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+Technologies and tools I use to build, experiment, and bring ideas to life.
+
+### 💻 Languages
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark&size=24" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark&size=24" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express&theme=dark&size=24" />
 </p>
 
-### Databases & Data Management
+### 🗄️ Databases & Data Management
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&size=24" />
 </p>
 
-### AI & Generative AI
+### 🤖 AI & Generative AI
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0E7490?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square" />
 </p>
 
-### DevOps & Development Tools
+### 🐳 DevOps & Development Tools
 <p>
-  <img width="50%" src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,vercel&theme=dark&size=24" />
 </p>
 
-### Additional Technologies
+### 🔧 Additional Technologies
 <p>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
