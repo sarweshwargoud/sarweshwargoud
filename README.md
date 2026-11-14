@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Generative+AI+Learner;Agentic+AI+Learner;AI+Tools+Explorer">
 </p>
 
----
+
 
 
 <!-- ================= QUICK LINKS ================= -->
@@ -39,12 +39,11 @@
 </table>
 
 
----
+
 
 <img src="https://komarev.com/ghpvc/?username=sarweshwargoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="views" allign="center" />
 
 <!-- ================= ABOUT ================= -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <h1 align="center">About Me</h1>
 
