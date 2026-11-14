@@ -41,7 +41,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=sarweshwargoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=sarweshwargoud&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="views" allign="center" />
 
 <!-- ================= ABOUT ================= -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
