@@ -59,21 +59,20 @@
 </div>
 
 ---
-Building AI-powered applications with LLMs, RAG, backend engineering, and modern cloud technologies.
+<h1 align="center">Experience 🧑‍💻</h1>
 
 | Intership | Description |
 | :--- | :--- |
-| **Generative AI intern @SURE TRUST** | Developed an AI-powered family healthcare platform using Python, FastAPI, React, and Supabase, enabling secure medical-record management and personalized health assistance. Implemented a RAG-based chatbot, medical document OCR and extraction, embedding-based retrieval, and AI agents to deliver context-aware answers grounded in uploaded medical records. |
-| **Backend AI Engineering @Flyrank** | Built an LLM Usage Metering & Billing Engine using Python, FastAPI, and PostgreSQL to track token usage, calculate API costs, enforce tenant quotas, and manage billing. Implemented concurrency-safe metering, idempotency, JWT authentication, and Stripe subscription integration. Used Docker, Alembic, and Pytest, achieving 129 passing automated tests. |
-| **AIML Intern @Uptoskills** | Built CodeSkills, a LeetCode-style platform for practicing coding problems and applied AI skills (model fine-tuning) QLoRA on stablecode with large coding problems dataset, using a FastAPI backend and React.js frontend. Developed an LLM-powered question generation pipeline, fine-tuning models to auto-generate domain-specific coding practice problems at scale. |
+| **Generative AI intern @SURE TRUST (MAR-2026 to SEP-2026)** | Developed an AI-powered family healthcare platform using Python, FastAPI, React, and Supabase, enabling secure medical-record management and personalized health assistance. Implemented a RAG-based chatbot, medical document OCR and extraction, embedding-based retrieval, and AI agents to deliver context-aware answers grounded in uploaded medical records. |
+| **Backend AI Engineering @Flyrank (AUG-2026 to SEP-2026)** | Built an LLM Usage Metering & Billing Engine using Python, FastAPI, and PostgreSQL to track token usage, calculate API costs, enforce tenant quotas, and manage billing. Implemented concurrency-safe metering, idempotency, JWT authentication, and Stripe subscription integration. Used Docker, Alembic, and Pytest, achieving 129 passing automated tests. |
+| **AIML Intern @Uptoskills (DEC-2025 to MAR-2026)** | Built CodeSkills, a LeetCode-style platform for practicing coding problems and applied AI skills (model fine-tuning) QLoRA on stablecode with large coding problems dataset, using a FastAPI backend and React.js frontend. Developed an LLM-powered question generation pipeline, fine-tuning models to auto-generate domain-specific coding practice problems at scale. |
+
+| Course | College |
+| :--- | :--- |
+| B.Tech — CSE (AI & ML) (2024-2027) | MRCET |
+| DIPLOMA MECHANICAL ENGINEERING (2021-2024) | GOVERNMENT POLYTECHNIC HYDERABAD |
 
 
-
-## 🎓 Education
-
-🎓 **B.Tech — CSE (AI & ML)**  
-📍 Malla Reddy College of Engineering & Technology  
-📅 2024 – 2027
 
 ---
 
