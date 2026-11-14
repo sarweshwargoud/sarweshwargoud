@@ -46,27 +46,27 @@
 <!-- ================= ABOUT ================= -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🌟 About
+<h1 align="center">About Me</h1>
 
-I am an enthusiastic learner & builder focused on:
-
-- 🤖 Generative AI & Agentic AI Systems
-- 🧠 Machine Learning & Intelligent Automation
-- ⚙️ AI Chatbots & RAG Systems
-- ☁️ Cloud & Scalable AI Deployments
-
-
-
-
-
----
-
-## 🏆 Experience
-
-- 🤖 **Gen AI Intern** — SURE TRUST *(Feb 2026 – July 2026)*
-- 🧑‍💻 **AI/ML Intern** — UptoSkills *(Dec 2025 – March 2026)*
+<div align="center">
+  <i>CSE(AIML) Student @ MRCET</i><br>
+  <i>Passionate about <b>AI Engineering</b>, <b>Backend Engineering</b>, & <b>Full-Stack Development</b>.</i>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-4CAF50?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
 
 ---
+Building AI-powered applications with LLMs, RAG, backend engineering, and modern cloud technologies.
+
+| Intership | Description |
+| :--- | :--- |
+| **Generative AI intern @SURE TRUST** | Developed an AI-powered family healthcare platform using Python, FastAPI, React, and Supabase, enabling secure medical-record management and personalized health assistance. Implemented a RAG-based chatbot, medical document OCR and extraction, embedding-based retrieval, and AI agents to deliver context-aware answers grounded in uploaded medical records. |
+| **Backend AI Engineering @Flyrank** | Built an LLM Usage Metering & Billing Engine using Python, FastAPI, and PostgreSQL to track token usage, calculate API costs, enforce tenant quotas, and manage billing. Implemented concurrency-safe metering, idempotency, JWT authentication, and Stripe subscription integration. Used Docker, Alembic, and Pytest, achieving 129 passing automated tests. |
+| **AIML Intern @Uptoskills** | Built CodeSkills, a LeetCode-style platform for practicing coding problems and applied AI skills (model fine-tuning) QLoRA on stablecode with large coding problems dataset, using a FastAPI backend and React.js frontend. Developed an LLM-powered question generation pipeline, fine-tuning models to auto-generate domain-specific coding practice problems at scale. |
+
 
 
 ## 🎓 Education
