@@ -1,10 +1,8 @@
 <!-- ================= HEADER ================= -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Screenshot 2026-11-14 150520.png">
-    <img alt="Logo for BSG" src="Screenshot 2026-11-14 150520.png">
-  </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Sarweshwar%20Buddolla&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20Engineer&descAlignY=52&descAlign=50" alt="Header Banner" />
 </div>
 
 
