@@ -70,6 +70,7 @@
 ---
 
 <h1 align="center">EDUCATION 🎓</h1>
+
 | Course | College |
 | :--- | :--- |
 | B.Tech — CSE (AI & ML) (2024-2027) | MRCET |
